@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Logs
+*.log
+
+# Editor files
+.vscode/
+.idea/
+
+# Local Netlify folder
+.netlify
